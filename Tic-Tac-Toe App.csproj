@@ -7,8 +7,4 @@
     <RootNamespace>Tic_Tac_Toe_App</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Views\Game\" />
-  </ItemGroup>
-
 </Project>
